@@ -1,12 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4">
   <diagram name="ページ1" id="gcduG5v5cPDu3C-w4vyu">
-    <mxGraphModel dx="1288" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BNQaBZHtI5vDABLPKeQR-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#d5e8d4;dashed=1;dashPattern=12 12;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="740" y="380" width="200" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="BNQaBZHtI5vDABLPKeQR-12" value="Diode Bridge" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="760" y="120" width="160" height="240" as="geometry" />
         </mxCell>
@@ -369,13 +366,13 @@
         <mxCell id="BNQaBZHtI5vDABLPKeQR-84" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1450" y="560" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ris2UEZOTDb3yN6YdAho-1" value="AC85 ~ 265 V&lt;div&gt;45 ~ 65 Hz&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="ris2UEZOTDb3yN6YdAho-1" value="AC85 ~ 265 V&lt;div&gt;45 ~ 65 Hz&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ris2UEZOTDb3yN6YdAho-2" value="DC380 ~ 410 V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="ris2UEZOTDb3yN6YdAho-2" value="DC380 ~ 410 V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="2040" y="220" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ris2UEZOTDb3yN6YdAho-4" value="15 A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="ris2UEZOTDb3yN6YdAho-4" value="15 A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="240" y="100" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
