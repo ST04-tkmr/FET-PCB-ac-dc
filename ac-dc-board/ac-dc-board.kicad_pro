@@ -480,7 +480,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "fr4_4layer_1oz_bga.kicad_pro",
+    "filename": "ac-dc-board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -630,6 +630,14 @@
     [
       "b61bdbac-a671-44ff-8f7c-190c23ffbe3f",
       "Root"
+    ],
+    [
+      "34e904a9-4e55-417d-9f2d-2c88901e2f23",
+      "active-bridge"
+    ],
+    [
+      "dd7166bf-4733-45df-aa16-20d4e97fcbc3",
+      "ac-filter"
     ]
   ],
   "text_variables": {}
