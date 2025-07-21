@@ -1642,7 +1642,7 @@
 		)
 		(uuid "f9faf655-e1c4-45a0-8086-52775a6696af")
 	)
-	(hierarchical_label "AC1_FLTR"
+	(hierarchical_label "L_FLTR"
 		(shape output)
 		(at 165.1 45.72 0)
 		(effects
@@ -1653,7 +1653,7 @@
 		)
 		(uuid "07f4b9c8-e645-43d8-adc8-4e2cee424abd")
 	)
-	(hierarchical_label "AC1"
+	(hierarchical_label "L"
 		(shape input)
 		(at 38.1 45.72 180)
 		(effects
@@ -1664,7 +1664,7 @@
 		)
 		(uuid "14c8b37f-e247-4a0e-939f-1f1fc0114ce8")
 	)
-	(hierarchical_label "AC2"
+	(hierarchical_label "N"
 		(shape input)
 		(at 38.1 55.88 180)
 		(effects
@@ -1675,7 +1675,7 @@
 		)
 		(uuid "466280ec-b087-4c55-8c78-d90c9b06aae3")
 	)
-	(hierarchical_label "AC2_FLTR"
+	(hierarchical_label "N_FLTR"
 		(shape output)
 		(at 165.1 55.88 0)
 		(effects

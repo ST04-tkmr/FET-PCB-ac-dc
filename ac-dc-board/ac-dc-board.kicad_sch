@@ -756,7 +756,7 @@
 	)
 	(sheet
 		(at 76.2 43.18)
-		(size 20.32 15.24)
+		(size 12.7 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -788,9 +788,9 @@
 				(justify left top)
 			)
 		)
-		(pin "AC1" input
+		(pin "L" input
 			(at 76.2 45.72 180)
-			(uuid "f25807d6-930c-4069-b80f-c0ce89719e27")
+			(uuid "12a5fbfd-14bd-47cc-b357-67d69300369e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -798,9 +798,9 @@
 				(justify left)
 			)
 		)
-		(pin "AC1_FLTR" output
-			(at 96.52 45.72 0)
-			(uuid "c3035e18-0994-419b-9304-eb0c7e797d6f")
+		(pin "N_FLTR" output
+			(at 88.9 55.88 0)
+			(uuid "af849fc7-00df-4876-981b-3ca2c23e1582")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -808,24 +808,24 @@
 				(justify right)
 			)
 		)
-		(pin "AC2" input
+		(pin "L_FLTR" output
+			(at 88.9 45.72 0)
+			(uuid "5e358e95-1d9f-48be-977d-8eaff14836da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "N" input
 			(at 76.2 55.88 180)
-			(uuid "f0460aad-429d-4cd3-9e74-951d727f9a71")
+			(uuid "01782b48-904a-45f0-8ed6-b40ef6194f04")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-		(pin "AC2_FLTR" output
-			(at 96.52 55.88 0)
-			(uuid "dde1c1f0-dfd3-4691-bb46-bfb6ff5bba8b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 		(instances
