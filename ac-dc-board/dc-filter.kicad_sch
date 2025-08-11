@@ -1,0 +1,52 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "551ac43a-60a2-4d22-b93c-58039b01f4c4")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "DC+"
+		(shape input)
+		(at 38.1 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0c359eaa-eb85-4949-b0a0-97c8c6475993")
+	)
+	(hierarchical_label "DC+_FLTR"
+		(shape output)
+		(at 63.5 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2aa596a8-211d-421c-9836-81672fcff23c")
+	)
+	(hierarchical_label "DC-_FLTR"
+		(shape output)
+		(at 63.5 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "442d2fa3-fd23-45b0-ae6b-97825fdd5d61")
+	)
+	(hierarchical_label "DC-"
+		(shape input)
+		(at 38.1 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "540d385b-8a91-4cca-9455-2d921eebd92a")
+	)
+)
